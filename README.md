@@ -14,8 +14,9 @@ npm install -g nodemon
 ## Usage
 
 ```bash
-To use this application, simply CD to the directory of the project and run "nodemon" in your terminal.
-A localhost will be ran with the port 3000, and you open it through the browser.
+To use this application, simply:
+1. CD to the directory of the project and run "nodemon" in your terminal.
+2. A localhost will be ran with the port 3000, and you open it through the browser.
 
 
 The API Key is already provided, but may be changed according to your own API key.
